@@ -1,0 +1,1 @@
+package go_amazon_sp_api
