@@ -1,1 +1,7 @@
-package go_amazon_sp_api
+package main
+
+
+
+func main(){
+
+}
